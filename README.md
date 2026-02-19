@@ -49,7 +49,7 @@ ai-cowriting-system/
 ├── context/                     # 👤 컨텍스트 프로파일 (설정 완료)
 │   ├── voice-dna.json          # 박찬규 글쓰기 스타일
 │   ├── icp.json                # AI 활용 관심 직장인
-│   └── business-profile.json   # AI 활용 실무 가이드
+│   └── business-profile.json   # AI 실무 가이드
 │
 ├── knowledge/                   # 📚 지식 베이스
 │   ├── drafts/                 # 작업 중인 초안
@@ -145,3 +145,8 @@ knowledge/drafts의 최신 뉴스레터를 기반으로 소셜 스레드 만들�
 ## 📝 라이선스
 
 이 시스템은 개인 및 상업적 용도로 자유롭게 사용, 수정, 배포할 수 있습니다.
+
+---
+
+# 2024_DS60
+파이썬으로 구현해보는 필수 머신러닝/딥러닝 알고리즘
