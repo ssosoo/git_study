@@ -1,0 +1,12 @@
+# AI 공동 집필 시스템 의존성
+
+# Anthropic Claude API
+anthropic>=0.18.0
+
+# 환경 변수 관리
+python-dotenv>=1.0.0
+
+# 개발 의존성 (선택)
+# pytest>=7.0.0
+# black>=23.0.0
+# mypy>=1.0.0

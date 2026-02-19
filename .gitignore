@@ -1,0 +1,16 @@
+# 개인 콘텐츠
+knowledge/
+context/
+logs/
+
+# 시스템 로직
+src/
+skills/
+_prompts/
+
+# 환경 및 시스템 파일
+.env
+.DS_Store
+__pycache__/
+*.pyc
+.claude/
